@@ -1,6 +1,6 @@
 {
   "name": "phing/task-jsmin",
-  "description": "Task to minify javascript files.",
+  "description": "Task to minify javascript files. Forked for POPP6/PHP8",
   "minimum-stability": "dev",
   "prefer-stable": true,
   "license": "LGPL-3.0-only",
